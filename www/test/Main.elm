@@ -41,7 +41,7 @@ lactation =
             in
                 Random.map
                     fromInt
-                    (Random.int 0 3)
+                    (Random.int 0 6)
 
         shrinker : Shrinker Event
         shrinker lact =
