@@ -51,5 +51,4 @@ platforms/ios/www/*
 
 # Elm
 **/elm-stuff/**
-**/Native/*.js
-www/js/*.js
+**/*.js
